@@ -1,7 +1,5 @@
 # web-course
 
-2015 Fall
-
 Airline reservation system.
 
 Team project.
